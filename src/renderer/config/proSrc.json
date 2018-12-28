@@ -1,0 +1,23 @@
+{
+  "fileArr":[
+    {
+      "name":"我的小工具",
+      "parent":"E:",
+      "child":"daniel_tool , daniel-tool",
+      "src":"E://daniel_tool/daniel-tool"
+    },
+    {
+      "name":"sdk管理系统",
+      "parent":"D:",
+      "child":"work , SDKAdmin",
+      "src":"D://works/workspace/sdk管理oa系统(测试服务器)"
+    },
+    {
+      "name":"天龙h5",
+      "parent":"E:",
+      "child":"work , tianlong_h5",
+      "src":"E://work/tianlong_h5"
+    }
+  ],
+  "jenkins":"D://"
+}
